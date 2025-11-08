@@ -1,11 +1,11 @@
 # Test file
 
+import pytest
 
-
-from guess_the_word import word_list
+from guess_the_word import random_word
 
 def test_guess():
-    assert "giraffe" in word_list
+    assert "giragge" in random_word
 
 
 
