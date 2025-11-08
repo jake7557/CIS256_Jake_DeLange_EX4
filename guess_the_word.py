@@ -2,7 +2,7 @@
 import random
  
 # Random word list
-word_list = ["giraffe", "elephant", "dinosaur", "ostrich", "whale", "lizard"]
+random_word = ["giraffe", "elephant", "dinosaur", "ostrich", "whale", "lizard"]
 # Randomly chosen word from list
 
 print("Please try to guess what letters are in the random word.")
