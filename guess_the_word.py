@@ -41,3 +41,5 @@ while turns > 0:
 
     if turns == 0: # Once number of turns = 8, loop is ended
         print("You're out of turns! The word was:", random_word)
+
+#Comment added to see if I'm able to add another commit correctly
